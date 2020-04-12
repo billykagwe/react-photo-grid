@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/billykagwe/react-photo-grid/static/css/main.096afcfd.chunk.css",
+    "main.js": "/billykagwe/react-photo-grid/static/js/main.731619ee.chunk.js",
+    "main.js.map": "/billykagwe/react-photo-grid/static/js/main.731619ee.chunk.js.map",
+    "runtime-main.js": "/billykagwe/react-photo-grid/static/js/runtime-main.983ed35b.js",
+    "runtime-main.js.map": "/billykagwe/react-photo-grid/static/js/runtime-main.983ed35b.js.map",
+    "static/js/2.b227b373.chunk.js": "/billykagwe/react-photo-grid/static/js/2.b227b373.chunk.js",
+    "static/js/2.b227b373.chunk.js.map": "/billykagwe/react-photo-grid/static/js/2.b227b373.chunk.js.map",
+    "index.html": "/billykagwe/react-photo-grid/index.html",
+    "precache-manifest.9c1d12b7d5794395cb0a61153b7648c3.js": "/billykagwe/react-photo-grid/precache-manifest.9c1d12b7d5794395cb0a61153b7648c3.js",
+    "service-worker.js": "/billykagwe/react-photo-grid/service-worker.js",
+    "static/css/main.096afcfd.chunk.css.map": "/billykagwe/react-photo-grid/static/css/main.096afcfd.chunk.css.map",
+    "static/js/2.b227b373.chunk.js.LICENSE.txt": "/billykagwe/react-photo-grid/static/js/2.b227b373.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.983ed35b.js",
+    "static/js/2.b227b373.chunk.js",
+    "static/css/main.096afcfd.chunk.css",
+    "static/js/main.731619ee.chunk.js"
+  ]
+}
